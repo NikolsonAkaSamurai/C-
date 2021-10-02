@@ -1,0 +1,12 @@
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\bin\Release\netcoreapp3.1\46ФункцииИметоды.exe
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\bin\Release\netcoreapp3.1\46ФункцииИметоды.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\bin\Release\netcoreapp3.1\46ФункцииИметоды.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\bin\Release\netcoreapp3.1\46ФункцииИметоды.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\bin\Release\netcoreapp3.1\46ФункцииИметоды.dll
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\bin\Release\netcoreapp3.1\46ФункцииИметоды.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\obj\Release\netcoreapp3.1\46ФункцииИметоды.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\obj\Release\netcoreapp3.1\46ФункцииИметоды.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\obj\Release\netcoreapp3.1\46ФункцииИметоды.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\obj\Release\netcoreapp3.1\46ФункцииИметоды.dll
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\obj\Release\netcoreapp3.1\46ФункцииИметоды.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\46ФункцииИметоды\obj\Release\netcoreapp3.1\46ФункцииИметоды.genruntimeconfig.cache

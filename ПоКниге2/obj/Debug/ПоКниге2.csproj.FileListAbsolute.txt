@@ -1,0 +1,9 @@
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\bin\Debug\ПоКниге2.exe.config
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\bin\Debug\ПоКниге2.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\bin\Debug\ПоКниге2.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\obj\Debug\ПоКниге2.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\obj\Debug\ПоКниге2.Properties.Resources.resources
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\obj\Debug\ПоКниге2.csproj.GenerateResource.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\obj\Debug\ПоКниге2.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\obj\Debug\ПоКниге2.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ПоКниге2\obj\Debug\ПоКниге2.pdb

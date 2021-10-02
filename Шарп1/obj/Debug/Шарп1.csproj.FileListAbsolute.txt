@@ -1,0 +1,11 @@
+C:\Users\николай\Desktop\Жопа\Шарп1\bin\Debug\Шарп1.exe.config
+C:\Users\николай\Desktop\Жопа\Шарп1\bin\Debug\Шарп1.exe
+C:\Users\николай\Desktop\Жопа\Шарп1\bin\Debug\Шарп1.pdb
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.Form1.resources
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.Properties.Resources.resources
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.csproj.GenerateResource.cache
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.exe
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\Шарп1.pdb
+C:\Users\николай\Desktop\Жопа\Шарп1\obj\Debug\InputDialogDemo.resources

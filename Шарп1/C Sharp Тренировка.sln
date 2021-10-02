@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шарп1", "Шарп1.csproj", "{96A3DBC3-BBFD-4F4A-863E-7005C134A2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тренировка1", "..\Тренировка1\Тренировка1.csproj", "{AC10A5ED-2D03-4A0F-BB4D-55231FCD203E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A3DBC3-BBFD-4F4A-863E-7005C134A2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A3DBC3-BBFD-4F4A-863E-7005C134A2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A3DBC3-BBFD-4F4A-863E-7005C134A2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A3DBC3-BBFD-4F4A-863E-7005C134A2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC10A5ED-2D03-4A0F-BB4D-55231FCD203E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC10A5ED-2D03-4A0F-BB4D-55231FCD203E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC10A5ED-2D03-4A0F-BB4D-55231FCD203E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC10A5ED-2D03-4A0F-BB4D-55231FCD203E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB1D0CC-CBB8-4215-9CC0-8FE07ED5D7EE}
+	EndGlobalSection
+EndGlobal

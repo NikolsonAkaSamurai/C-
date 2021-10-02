@@ -1,0 +1,5 @@
+C:\Users\николай\Desktop\Прога345\Тест1.exe
+C:\Users\николай\Desktop\Прога345\Тест1.dll
+C:\Users\николай\Desktop\Прога345\Тест1.deps.json
+C:\Users\николай\Desktop\Прога345\Тест1.runtimeconfig.json
+C:\Users\николай\Desktop\Прога345\Тест1.pdb

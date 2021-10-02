@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\bin\Release\netcoreapp3.1\Треугольник.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\bin\Release\netcoreapp3.1\Треугольник.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\bin\Release\netcoreapp3.1\Треугольник.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\bin\Release\netcoreapp3.1\Треугольник.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\bin\Release\netcoreapp3.1\Треугольник.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\bin\Release\netcoreapp3.1\Треугольник.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Треугольник\obj\Release\netcoreapp3.1\Треугольник.csprojAssemblyReference.cache

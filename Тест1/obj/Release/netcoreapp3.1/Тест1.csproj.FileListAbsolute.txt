@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\Тест1.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\Тест1.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\Тест1.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\Тест1.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\Тест1.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\Тест1.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\obj\Release\netcoreapp3.1\Тест1.csprojAssemblyReference.cache

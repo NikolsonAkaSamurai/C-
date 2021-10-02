@@ -1,0 +1,5 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Release\net5.0\Диапазоны.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Release\net5.0\Диапазоны.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Release\net5.0\Диапазоны.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Release\net5.0\Диапазоны.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Release\net5.0\Диапазоны.csproj.CoreCompileInputs.cache

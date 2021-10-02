@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\bin\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\bin\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\bin\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\bin\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\bin\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\bin\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДЗ_Чётность_Чисел\obj\Release\netcoreapp3.1\ДЗ_Чётность_Чисел.csprojAssemblyReference.cache

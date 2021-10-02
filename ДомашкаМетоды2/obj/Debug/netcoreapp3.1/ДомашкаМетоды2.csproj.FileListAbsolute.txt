@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\bin\Debug\netcoreapp3.1\ДомашкаМетоды2.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\bin\Debug\netcoreapp3.1\ДомашкаМетоды2.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\bin\Debug\netcoreapp3.1\ДомашкаМетоды2.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\bin\Debug\netcoreapp3.1\ДомашкаМетоды2.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\bin\Debug\netcoreapp3.1\ДомашкаМетоды2.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\bin\Debug\netcoreapp3.1\ДомашкаМетоды2.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды2\obj\Debug\netcoreapp3.1\ДомашкаМетоды2.genruntimeconfig.cache

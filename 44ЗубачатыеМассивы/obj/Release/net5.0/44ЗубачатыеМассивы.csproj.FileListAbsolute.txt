@@ -1,0 +1,16 @@
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\44ЗубачатыеМассивы.exe
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\44ЗубачатыеМассивы.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\44ЗубачатыеМассивы.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\44ЗубачатыеМассивы.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\44ЗубачатыеМассивы.dll
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\ref\44ЗубачатыеМассивы.dll
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\bin\Release\net5.0\44ЗубачатыеМассивы.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.dll
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\ref\44ЗубачатыеМассивы.dll
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\44ЗубачатыеМассивы\obj\Release\net5.0\44ЗубачатыеМассивы.csprojAssemblyReference.cache

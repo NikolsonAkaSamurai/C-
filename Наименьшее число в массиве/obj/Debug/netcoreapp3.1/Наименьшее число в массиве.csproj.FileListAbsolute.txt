@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\bin\Debug\netcoreapp3.1\Наименьшее число в массиве.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\bin\Debug\netcoreapp3.1\Наименьшее число в массиве.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\bin\Debug\netcoreapp3.1\Наименьшее число в массиве.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\bin\Debug\netcoreapp3.1\Наименьшее число в массиве.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\bin\Debug\netcoreapp3.1\Наименьшее число в массиве.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\bin\Debug\netcoreapp3.1\Наименьшее число в массиве.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Debug\netcoreapp3.1\Наименьшее число в массиве.csprojAssemblyReference.cache

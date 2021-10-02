@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Дз_Калькулятор": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

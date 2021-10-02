@@ -1,0 +1,15 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Debug\netcoreapp3.1\Дз_Калькулятор.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Debug\netcoreapp3.1\Дз_Калькулятор.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Debug\netcoreapp3.1\Дз_Калькулятор.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Debug\netcoreapp3.1\Дз_Калькулятор.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Debug\netcoreapp3.1\Дз_Калькулятор.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Debug\netcoreapp3.1\Дз_Калькулятор.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.Properties.Resources.resources
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.csproj.GenerateResource.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\obj\Debug\netcoreapp3.1\Дз_Калькулятор.GeneratedMSBuildEditorConfig.editorconfig

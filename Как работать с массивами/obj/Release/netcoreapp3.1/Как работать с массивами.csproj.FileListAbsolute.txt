@@ -1,0 +1,12 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\bin\Release\netcoreapp3.1\Как работать с массивами.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\bin\Release\netcoreapp3.1\Как работать с массивами.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\bin\Release\netcoreapp3.1\Как работать с массивами.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\bin\Release\netcoreapp3.1\Как работать с массивами.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\bin\Release\netcoreapp3.1\Как работать с массивами.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\bin\Release\netcoreapp3.1\Как работать с массивами.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\obj\Release\netcoreapp3.1\Как работать с массивами.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\obj\Release\netcoreapp3.1\Как работать с массивами.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\obj\Release\netcoreapp3.1\Как работать с массивами.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\obj\Release\netcoreapp3.1\Как работать с массивами.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\obj\Release\netcoreapp3.1\Как работать с массивами.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Как работать с массивами\obj\Release\netcoreapp3.1\Как работать с массивами.genruntimeconfig.cache

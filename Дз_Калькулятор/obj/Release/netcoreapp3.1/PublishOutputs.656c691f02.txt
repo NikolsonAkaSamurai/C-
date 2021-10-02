@@ -1,0 +1,5 @@
+C:\Users\николай\Desktop\прог1\Дз_Калькулятор.exe
+C:\Users\николай\Desktop\прог1\Дз_Калькулятор.dll
+C:\Users\николай\Desktop\прог1\Дз_Калькулятор.deps.json
+C:\Users\николай\Desktop\прог1\Дз_Калькулятор.runtimeconfig.json
+C:\Users\николай\Desktop\прог1\Дз_Калькулятор.pdb

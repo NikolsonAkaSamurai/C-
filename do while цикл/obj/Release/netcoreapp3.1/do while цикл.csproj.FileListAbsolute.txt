@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\bin\Release\netcoreapp3.1\do while цикл.exe
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\bin\Release\netcoreapp3.1\do while цикл.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\bin\Release\netcoreapp3.1\do while цикл.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\bin\Release\netcoreapp3.1\do while цикл.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\bin\Release\netcoreapp3.1\do while цикл.dll
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\bin\Release\netcoreapp3.1\do while цикл.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.dll
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\do while цикл\obj\Release\netcoreapp3.1\do while цикл.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\bin\Release\netcoreapp3.1\Сумма четных чисел в массиве.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\bin\Release\netcoreapp3.1\Сумма четных чисел в массиве.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\bin\Release\netcoreapp3.1\Сумма четных чисел в массиве.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\bin\Release\netcoreapp3.1\Сумма четных чисел в массиве.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\bin\Release\netcoreapp3.1\Сумма четных чисел в массиве.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\bin\Release\netcoreapp3.1\Сумма четных чисел в массиве.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Сумма четных чисел в массиве\obj\Release\netcoreapp3.1\Сумма четных чисел в массиве.csprojAssemblyReference.cache

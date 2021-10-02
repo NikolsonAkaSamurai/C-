@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\bin\Debug\netcoreapp3.1\Индексы и диапазоны.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\bin\Debug\netcoreapp3.1\Индексы и диапазоны.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\bin\Debug\netcoreapp3.1\Индексы и диапазоны.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\bin\Debug\netcoreapp3.1\Индексы и диапазоны.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\bin\Debug\netcoreapp3.1\Индексы и диапазоны.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\bin\Debug\netcoreapp3.1\Индексы и диапазоны.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Индексы и диапазоны\obj\Debug\netcoreapp3.1\Индексы и диапазоны.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\bin\Debug\netcoreapp3.1\Уроки3.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\bin\Debug\netcoreapp3.1\Уроки3.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\bin\Debug\netcoreapp3.1\Уроки3.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\bin\Debug\netcoreapp3.1\Уроки3.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\bin\Debug\netcoreapp3.1\Уроки3.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\bin\Debug\netcoreapp3.1\Уроки3.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\obj\Debug\netcoreapp3.1\Уроки3.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\obj\Debug\netcoreapp3.1\Уроки3.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\obj\Debug\netcoreapp3.1\Уроки3.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\obj\Debug\netcoreapp3.1\Уроки3.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\obj\Debug\netcoreapp3.1\Уроки3.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Уроки3\obj\Debug\netcoreapp3.1\Уроки3.genruntimeconfig.cache

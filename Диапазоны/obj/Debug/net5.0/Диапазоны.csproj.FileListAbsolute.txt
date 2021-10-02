@@ -1,0 +1,16 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\Диапазоны.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\Диапазоны.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\Диапазоны.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\Диапазоны.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\Диапазоны.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\ref\Диапазоны.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\bin\Debug\net5.0\Диапазоны.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\ref\Диапазоны.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Диапазоны\obj\Debug\net5.0\Диапазоны.genruntimeconfig.cache

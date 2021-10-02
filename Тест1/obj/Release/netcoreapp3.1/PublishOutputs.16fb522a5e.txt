@@ -1,0 +1,5 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\publish\Тест1.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\publish\Тест1.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\publish\Тест1.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\publish\Тест1.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Тест1\bin\Release\netcoreapp3.1\publish\Тест1.pdb

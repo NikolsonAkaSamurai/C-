@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\bin\Release\netcoreapp3.1\Дз Количество четных чисел.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\bin\Release\netcoreapp3.1\Дз Количество четных чисел.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\bin\Release\netcoreapp3.1\Дз Количество четных чисел.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\bin\Release\netcoreapp3.1\Дз Количество четных чисел.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\bin\Release\netcoreapp3.1\Дз Количество четных чисел.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\bin\Release\netcoreapp3.1\Дз Количество четных чисел.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Дз Количество четных чисел\obj\Release\netcoreapp3.1\Дз Количество четных чисел.csprojAssemblyReference.cache

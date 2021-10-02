@@ -1,0 +1,3 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Release\netcoreapp3.1\Наименьшее число в массиве.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Release\netcoreapp3.1\Наименьшее число в массиве.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Наименьшее число в массиве\obj\Release\netcoreapp3.1\Наименьшее число в массиве.csproj.CoreCompileInputs.cache

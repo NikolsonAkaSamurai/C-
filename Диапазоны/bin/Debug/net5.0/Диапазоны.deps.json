@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Диапазоны/1.0.0": {
+        "runtime": {
+          "Диапазоны.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Диапазоны/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

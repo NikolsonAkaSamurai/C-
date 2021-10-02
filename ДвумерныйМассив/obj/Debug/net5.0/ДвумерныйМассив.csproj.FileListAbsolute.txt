@@ -1,0 +1,16 @@
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ДвумерныйМассив.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ДвумерныйМассив.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ДвумерныйМассив.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ДвумерныйМассив.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ДвумерныйМассив.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ref\ДвумерныйМассив.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\bin\Debug\net5.0\ДвумерныйМассив.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.csprojAssemblyReference.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ref\ДвумерныйМассив.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДвумерныйМассив\obj\Debug\net5.0\ДвумерныйМассив.genruntimeconfig.cache

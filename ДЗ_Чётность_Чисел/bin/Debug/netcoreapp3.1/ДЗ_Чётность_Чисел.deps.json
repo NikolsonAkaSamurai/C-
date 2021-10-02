@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ДЗ_Чётность_Чисел/1.0.0": {
+        "runtime": {
+          "ДЗ_Чётность_Чисел.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ_Чётность_Чисел/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

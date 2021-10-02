@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\bin\Release\netcoreapp3.1\Логические_Операторы.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\bin\Release\netcoreapp3.1\Логические_Операторы.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\bin\Release\netcoreapp3.1\Логические_Операторы.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\bin\Release\netcoreapp3.1\Логические_Операторы.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\bin\Release\netcoreapp3.1\Логические_Операторы.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\bin\Release\netcoreapp3.1\Логические_Операторы.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Логические_Операторы\obj\Release\netcoreapp3.1\Логические_Операторы.csprojAssemblyReference.cache

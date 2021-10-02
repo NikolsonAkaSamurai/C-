@@ -1,0 +1,12 @@
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\bin\Release\netcoreapp3.1\27. break и continue.exe
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\bin\Release\netcoreapp3.1\27. break и continue.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\bin\Release\netcoreapp3.1\27. break и continue.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\bin\Release\netcoreapp3.1\27. break и continue.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\bin\Release\netcoreapp3.1\27. break и continue.dll
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\bin\Release\netcoreapp3.1\27. break и continue.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\obj\Release\netcoreapp3.1\27. break и continue.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\obj\Release\netcoreapp3.1\27. break и continue.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\obj\Release\netcoreapp3.1\27. break и continue.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\obj\Release\netcoreapp3.1\27. break и continue.dll
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\obj\Release\netcoreapp3.1\27. break и continue.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\27. break и continue\obj\Release\netcoreapp3.1\27. break и continue.genruntimeconfig.cache

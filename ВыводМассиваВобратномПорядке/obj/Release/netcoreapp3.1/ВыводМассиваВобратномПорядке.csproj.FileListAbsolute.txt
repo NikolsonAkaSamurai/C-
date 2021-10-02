@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\bin\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\bin\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\bin\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\bin\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\bin\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\bin\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ВыводМассиваВобратномПорядке\obj\Release\netcoreapp3.1\ВыводМассиваВобратномПорядке.csprojAssemblyReference.cache

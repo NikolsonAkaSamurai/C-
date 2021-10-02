@@ -1,0 +1,16 @@
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ДомашкаМетоды.exe
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ДомашкаМетоды.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ДомашкаМетоды.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ДомашкаМетоды.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ДомашкаМетоды.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ref\ДомашкаМетоды.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\bin\Release\net5.0\ДомашкаМетоды.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ref\ДомашкаМетоды.dll
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\ДомашкаМетоды\obj\Release\net5.0\ДомашкаМетоды.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\bin\Release\netcoreapp3.1\Конструкция if else.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\bin\Release\netcoreapp3.1\Конструкция if else.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\bin\Release\netcoreapp3.1\Конструкция if else.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\bin\Release\netcoreapp3.1\Конструкция if else.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\bin\Release\netcoreapp3.1\Конструкция if else.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\bin\Release\netcoreapp3.1\Конструкция if else.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Конструкция if else\obj\Release\netcoreapp3.1\Конструкция if else.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Release\netcoreapp3.1\publish\Дз_Калькулятор.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Release\netcoreapp3.1\publish\Дз_Калькулятор.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Release\netcoreapp3.1\publish\Дз_Калькулятор.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Release\netcoreapp3.1\publish\Дз_Калькулятор.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Дз_Калькулятор\bin\Release\netcoreapp3.1\publish\Дз_Калькулятор.pdb

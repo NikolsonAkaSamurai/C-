@@ -1,0 +1,16 @@
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\КлавиатураДвумерный.exe
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\КлавиатураДвумерный.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\КлавиатураДвумерный.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\КлавиатураДвумерный.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\КлавиатураДвумерный.dll
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\ref\КлавиатураДвумерный.dll
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\bin\Release\net5.0\КлавиатураДвумерный.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.dll
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\ref\КлавиатураДвумерный.dll
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.genruntimeconfig.cache
+C:\Users\николай\Desktop\Программирования 2\С#\КлавиатураДвумерный\obj\Release\net5.0\КлавиатураДвумерный.csprojAssemblyReference.cache

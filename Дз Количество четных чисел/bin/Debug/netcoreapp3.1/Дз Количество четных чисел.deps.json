@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Дз Количество четных чисел/1.0.0": {
+        "runtime": {
+          "Дз Количество четных чисел.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Дз Количество четных чисел/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

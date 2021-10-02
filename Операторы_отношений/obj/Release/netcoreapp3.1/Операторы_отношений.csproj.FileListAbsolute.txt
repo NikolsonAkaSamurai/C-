@@ -1,0 +1,12 @@
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\bin\Release\netcoreapp3.1\Операторы_отношений.exe
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\bin\Release\netcoreapp3.1\Операторы_отношений.deps.json
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\bin\Release\netcoreapp3.1\Операторы_отношений.runtimeconfig.json
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\bin\Release\netcoreapp3.1\Операторы_отношений.runtimeconfig.dev.json
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\bin\Release\netcoreapp3.1\Операторы_отношений.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\bin\Release\netcoreapp3.1\Операторы_отношений.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\obj\Release\netcoreapp3.1\Операторы_отношений.AssemblyInfoInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\obj\Release\netcoreapp3.1\Операторы_отношений.AssemblyInfo.cs
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\obj\Release\netcoreapp3.1\Операторы_отношений.csproj.CoreCompileInputs.cache
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\obj\Release\netcoreapp3.1\Операторы_отношений.dll
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\obj\Release\netcoreapp3.1\Операторы_отношений.pdb
+C:\Users\николай\Desktop\Программирования 2\С#\Операторы_отношений\obj\Release\netcoreapp3.1\Операторы_отношений.genruntimeconfig.cache
